@@ -1,4 +1,5 @@
 /.vscode
+/target
 calculator.exe
 calculator.ilk
 calculator.obj
